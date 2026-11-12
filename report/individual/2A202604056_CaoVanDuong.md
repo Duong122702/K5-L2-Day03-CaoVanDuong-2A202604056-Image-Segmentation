@@ -25,6 +25,7 @@ Ghi tên ZIP đúng như file trong `submissions/` và số ảnh đã vẽ, Sav
 | cp6_coverage | … | … / 1 | 3 |
 | **Tổng tối đa** | | | **100** |
 
+Các phần checkpoint chưa kịp hoàn thiện do chưa đủ thời gian.
 
 ## 2. Một quyết định trước khi dùng gợi ý
 
